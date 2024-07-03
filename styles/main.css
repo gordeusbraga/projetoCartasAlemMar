@@ -1,0 +1,58 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Allerta+Stencil&family=Kolker+Brush&display=swap');
+body{
+    background-color: #BFA07C;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #48331fe6;
+    border-radius: 25px;
+
+}
+p{
+    font-family: "Allerta Stencil", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-right: 23px;
+  color: white;
+}
+img{
+    padding-top: 10px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    padding-bottom: 15%;
+    width: 95%;
+    margin-left: 3%;
+    padding-top: 10%;
+    background-color: #48331ff1;
+    border-radius: 25px;
+}
+button{
+    background-color: #654928;
+    font-family: "Allerta Stencil", sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 25px 35px;
+    border: none;
+    border-radius: 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+   white-space: normal;
+   word-wrap: break-word;
+   width: 80%;
+}
+a{
+    color: white;
+}
